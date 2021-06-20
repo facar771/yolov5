@@ -1,0 +1,7 @@
+
+train: ../images1/images/train/ 
+val: ../images1/images/val/ 
+
+nc: 1 
+
+names: [ 'drone']
